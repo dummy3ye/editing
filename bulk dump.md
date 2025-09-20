@@ -1,10 +1,12 @@
 Applications -
 
-Alight Motion
-Capcut
-Wink
-After Effects
-blurrr
+- Alight Motion
+- Capcut
+- Wink
+- After Effects
+- blurrr
+
+resource sources - 
 
 pinterest
 remove.bg
